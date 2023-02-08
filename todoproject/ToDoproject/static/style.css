@@ -1,0 +1,11 @@
+.banner{
+  background-color: darkblue;
+  height:150px;
+  width:1500px;
+  margin-bottom:50px;
+  text-align:center;
+  color:white;
+  font-family:Black Rose;
+  transform:transform;
+  position:absolutly;
+}
